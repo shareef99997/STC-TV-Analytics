@@ -2,7 +2,7 @@
 📊 **User Behavior Analysis | Time-Series Forecasting | Recommendation System**  
 Real-world data-driven project analyzing viewer patterns from STC TV platform using Python.
 
-<img src="Assets/STC-01-1536x767.png" width=100 />
+<img src="Assets/STC-01-1536x767.png" width=200 />
 
 ---
 
