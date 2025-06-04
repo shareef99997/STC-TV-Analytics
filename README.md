@@ -18,34 +18,6 @@ Using three datasets, I analyzed user behavior, predicted future demand, and bui
 
 ---
 
-## 🧩 Project Structure  
-
-STC-TV-Analytics/
-├── Watch Behavior/
-│ ├── notebook.ipynb
-│ ├── assets/
-│ │ ├── charts/
-│ │ └── samples/
-│ └── dataset.xlsb
-├── Prediction Model/
-│ ├── notebook.ipynb
-│ ├── assets/
-│ │ ├── charts/
-│ │ └── samples/
-│ └── dataset.xlsb
-├── Recommendation System/
-│ ├── notebook.ipynb
-│ ├── assets/
-│ │ ├── charts/
-│ │ └── samples/
-│ └── dataset.xlsb
-
-yaml
-Copy
-Edit
-
----
-
 ## 📂 Datasets Summary  
 
 - **Watch Behavior:** Logs of user sessions including program type, duration, and HD/SD quality  
