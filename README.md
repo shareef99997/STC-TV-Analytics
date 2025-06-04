@@ -2,7 +2,7 @@
 📊 **User Behavior Analysis | Time-Series Forecasting | Recommendation System**  
 Real-world data-driven project analyzing viewer patterns from STC TV platform using Python.
 
-<img src="Assets/STC-01-1536x767.png" />
+<img src="Assets/STC-01-1536x767.png" width=300 />
 
 ---
 
@@ -58,14 +58,14 @@ Edit
 
 ### 📍 Watch Behavior Patterns  
 <img src="Watch Behavior/Assets/Charts/Total Users watching by program_class.png" width="700" />  
-<img src="Watch Behavior/Assets/Charts/Total Watch Time (Hours) by Video Quality" width="700" />  
+<img src="Watch Behavior/Assets/Charts/Total Watch Time (Hours) by Video Quality.png" width="700" />  
 - HD viewers are **more engaged**, but SD viewers represent a larger base.  
 - **Top programs** by total watch time were mostly series with high repeat engagement.
 
 ---
 
 ### 📈 Forecasting Future Demand  
-<img src="Prediction Model/Assets/Charts/Watch Time Forecast" width="700" />  
+<img src="Prediction Model/Assets/Charts/Watch Time Forecast.png" width="700" />  
 - Using **ARIMA**, I predicted viewership for the next two months.  
 - Clear **weekly seasonality** found — weekends show spikes.  
 - 📅 **March 22, 2018** marked one of the highest viewing peaks.
@@ -73,7 +73,7 @@ Edit
 ---
 
 ### 🎯 Recommendation System  
-<img src="Recomendation System/Assets/Samples/Top 5 Recommendations" width="700" />  
+<img src="Recomendation System/Assets/Samples/Top 5 Recommendations.png" width="700" />  
 Built a **collaborative filtering model** that analyzes user similarity to recommend shows.  
 **Top 5 Recommendations for Moana Viewers:**
 1. Surf's Up: WaveMania  
